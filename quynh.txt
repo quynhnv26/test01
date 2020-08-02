@@ -4,4 +4,8 @@ change third...
 change fourth (from github web)
 conlifct line: nguyen van quynh _change from web
 line 3... from branch: "branch-01"
+<<<<<<< HEAD
 line 5... (master branch)
+=======
+line 4... from branch: "branch-01"
+>>>>>>> branch-01
